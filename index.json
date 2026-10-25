@@ -1,0 +1,19 @@
+{
+  "format": "emulonx-banks",
+  "version": 1,
+  "banks": [
+    {
+      "id": "emulon-x-base-bank",
+      "name": "EMULON X BASE BANK",
+      "author": "Kiru",
+      "official": true,
+      "soon": true,
+      "description": "The official starter bank for Emulon X. It's being made right now. Turn on notifications and the Hub will tell you the moment it's out.",
+      "presets": 0,
+      "version": "1.0",
+      "download": "",
+      "size": 0,
+      "colour": 0
+    }
+  ]
+}
